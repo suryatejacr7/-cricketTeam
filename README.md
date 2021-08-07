@@ -1,3 +1,7 @@
+
+#bro,i'm not getting output of id contained links, i even copied from the solution still the same issue which i sent you on linkedin
+
+
 # Cricket Team
 
 Given two files `app.js` and a database file `cricketTeam.db` consisting a table `cricket_team`.
